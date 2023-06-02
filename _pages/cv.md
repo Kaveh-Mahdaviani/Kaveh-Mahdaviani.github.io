@@ -9,32 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Electrical engineering, Isfahan University of Technology, 2008
+* M.Sc. in Electrical and Computer Engineering, University of Alberta, 2012
+* Ph.D  in Electrical and Computer Engineering, University of Toronto, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2023: Assistant Professor
+  * Computer and Mathematical Sciences Department
+  * University of Toronto
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2023: Senior Principal Research Manager
+  * Microsoft
+  * Toronto, Canada
+  
+* 2018-2023: Postdoctoral Research Scientist
+  * Electrical and Computer Engineering
+  * University of Toronto
+  * Canada
+  
+  
+* 2012-2018: PhD Student
+  * Electrical and Computer Engineering
+  * University of Toronto
+    
+* 2012: Research Intern
+  * Bell Labs
+  * Germany
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Java
+  * Maple
+  * Matlab
+  * Mathematica
+  * C
+  * C++
+  * Python
+  * QT
+  * Shell and bash scripting
+  
 
 Publications
 ======
@@ -56,4 +76,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Teaching Python course at the university of Toronto.
